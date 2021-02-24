@@ -1,0 +1,21 @@
+name: sample_helloword
+description: A new Flutter project.
+version: 1.0.1
+homepage: https://github.com/tejainece/date_format
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+
+
+ 
